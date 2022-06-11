@@ -2,16 +2,6 @@
 
 ### 🧀 HaPpy chEesE SmilE 🧀
 
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nameworld)](https://solved.ac/nameworld/)
-
-<br>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/nameworld?theme=forest&font=baloo&extension=null)
-
-<br> 
-
 <!--
 **kovus380/kovus380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
